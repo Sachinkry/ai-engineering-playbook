@@ -217,16 +217,16 @@ Choosing the right LLM is never about picking the most powerful model — it's a
 
 | Model                 | 10K queries/mo | 100K queries/mo | 1M queries/mo |
 | --------------------- | -------------- | --------------- | ------------- |
-| Claude Opus 4.6       | $17.50         | $175            | $1,750        |
-| Claude Sonnet 4.6     | $10.50         | $105            | $1,050        |
-| Claude Haiku 4.5      | $3.50          | $35             | $350          |
-| GPT-5.4               | $16.25         | $162.50         | $1,625        |
-| GPT-5.4-mini          | $5.00          | $50             | $500          |
-| GPT-5.4-nano          | $1.35          | $13.50          | $135          |
-| Gemini 3.1 Flash-Lite | $1.25          | $12.50          | $125          |
-| Gemini 2.5 Flash-Lite | $0.35          | $3.50           | **$35**       |
+| Claude Opus 4.6       | $175           | $1,750          | $17,500       |
+| Claude Sonnet 4.6     | $105           | $1,050          | $10,500       |
+| Claude Haiku 4.5      | $35            | $350            | $3,500        |
+| GPT-5.4               | $100           | $1,000          | $10,000       |
+| GPT-5.4-mini          | $30            | $300            | $3,000        |
+| GPT-5.4-nano          | $8.25          | $82.50          | $825          |
+| Gemini 3.1 Flash-Lite | $10            | $100            | $1,000        |
+| Gemini 2.5 Flash-Lite | $3             | $30             | $300          |
 
-> 💡 Gemini 2.5 Flash-Lite is 50× cheaper than Opus 4.6 for simple high-volume workloads.
+> 💡 Gemini 2.5 Flash-Lite is ~58× cheaper than Opus 4.6 for simple high-volume workloads.
 
 ### Agentic Cost Multiplier
 
